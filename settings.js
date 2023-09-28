@@ -38,7 +38,7 @@ global.websitex = "https://youtu.be/0wEvlfX1Ad8?si=kUtf74FEGmQPR6v7"
 global.wagc = "https://chat.whatsapp.com/DdBbUKsl9OL75b9hmYIuPM"
 global.themeemoji = '🪀'
 global.wm = "Sukuna Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botscript = 'Private Script Ask to Master Adith' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Sukunq\n\n"
 global.creator = "919747977735@s.whatsapp.net"
